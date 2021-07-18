@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">검색</string>
+    <string name="news">기업 기사</string>
+    <string name="archive">보관함</string>
+    <string name="dict">사전</string>
+</resources>
